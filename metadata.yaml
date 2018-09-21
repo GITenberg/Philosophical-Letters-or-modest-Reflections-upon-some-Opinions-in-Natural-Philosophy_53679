@@ -1,5 +1,8 @@
 _repo: Philosophical-Letters-or-modest-Reflections-upon-some-Opinions-in-Natural-Philosophy_53679
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53679-h/images/cover.jpg
 creator:
   author:
     agent_name: Newcastle, Margaret Cavendish, Duchess of
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '46554'
     url: http://www.gutenberg.org/2009/agents/46554
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53679#Philosophical-Letters-or-modest-Reflections-upon-some-Opinions-in-Natural-Philosophy
 gutenberg_issued: '2016-12-06'
 gutenberg_type: Text
 identifiers:
